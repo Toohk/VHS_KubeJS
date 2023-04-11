@@ -1,0 +1,2296 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 6, 2023, 4:53:00 PM
+
+#c:pumpkin_seeds
+- minecraft:pumpkin_seeds (from Porting Lib Tags)
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand (from Default)
+- minecraft:soul_soil (from Default)
+- nethersdelight:soul_compost (from Nether's Delight)
+- nethersdelight:rich_soul_soil (from Nether's Delight)
+
+#c:raw_materials
+- #c:copper_raw_materials (from Porting Lib Tags)
+- #c:gold_raw_materials (from Porting Lib Tags)
+- #c:iron_raw_materials (from Porting Lib Tags)
+
+#c:foods
+- minecraft:apple (from Fabric Convention Tags)
+- minecraft:mushroom_stew (from Fabric Convention Tags)
+- minecraft:bread (from Fabric Convention Tags)
+- minecraft:porkchop (from Fabric Convention Tags)
+- minecraft:cooked_porkchop (from Fabric Convention Tags)
+- minecraft:golden_apple (from Fabric Convention Tags)
+- minecraft:enchanted_golden_apple (from Fabric Convention Tags)
+- minecraft:cod (from Fabric Convention Tags)
+- minecraft:salmon (from Fabric Convention Tags)
+- minecraft:tropical_fish (from Fabric Convention Tags)
+- minecraft:pufferfish (from Fabric Convention Tags)
+- minecraft:cooked_cod (from Fabric Convention Tags)
+- minecraft:cooked_salmon (from Fabric Convention Tags)
+- minecraft:cookie (from Fabric Convention Tags)
+- minecraft:melon_slice (from Fabric Convention Tags)
+- minecraft:dried_kelp (from Fabric Convention Tags)
+- minecraft:beef (from Fabric Convention Tags)
+- minecraft:cooked_beef (from Fabric Convention Tags)
+- minecraft:chicken (from Fabric Convention Tags)
+- minecraft:cooked_chicken (from Fabric Convention Tags)
+- minecraft:rotten_flesh (from Fabric Convention Tags)
+- minecraft:spider_eye (from Fabric Convention Tags)
+- minecraft:carrot (from Fabric Convention Tags)
+- minecraft:potato (from Fabric Convention Tags)
+- minecraft:baked_potato (from Fabric Convention Tags)
+- minecraft:poisonous_potato (from Fabric Convention Tags)
+- minecraft:golden_carrot (from Fabric Convention Tags)
+- minecraft:pumpkin_pie (from Fabric Convention Tags)
+- minecraft:rabbit (from Fabric Convention Tags)
+- minecraft:cooked_rabbit (from Fabric Convention Tags)
+- minecraft:rabbit_stew (from Fabric Convention Tags)
+- minecraft:mutton (from Fabric Convention Tags)
+- minecraft:cooked_mutton (from Fabric Convention Tags)
+- minecraft:chorus_fruit (from Fabric Convention Tags)
+- minecraft:beetroot (from Fabric Convention Tags)
+- minecraft:beetroot_soup (from Fabric Convention Tags)
+- minecraft:suspicious_stew (from Fabric Convention Tags)
+- minecraft:sweet_berries (from Fabric Convention Tags)
+- minecraft:glow_berries (from Fabric Convention Tags)
+- minecraft:honey_bottle (from Fabric Convention Tags)
+
+#c:mossy_cobblestone
+- minecraft:mossy_cobblestone (from Porting Lib Tags)
+
+#c:crops/beetroot
+- minecraft:beetroot (from Porting Lib Tags)
+
+#c:lava_buckets
+- minecraft:lava_bucket (from Fabric Convention Tags)
+
+#c:raw_iron_ores
+- minecraft:raw_iron (from Fabric Convention Tags)
+
+#c:crops/wheat
+- minecraft:wheat (from Porting Lib Tags)
+
+#c:blackstone_bricks
+- minecraft:polished_blackstone_bricks (from Fabric Waystones)
+- minecraft:cracked_polished_blackstone_bricks (from Fabric Waystones)
+
+#c:magenta_dyes
+- minecraft:magenta_dye (from Fabric Convention Tags)
+- minecraft:magenta_dye (from Porting Lib Tags)
+
+#runes:rune_crafting/reagent/arcane_small
+- minecraft:amethyst_shard (from Runes)
+
+#c:purple_glass_panes
+- minecraft:purple_stained_glass_pane (from Porting Lib Tags)
+
+#c:nether_brick_ingots
+- minecraft:nether_brick (from Porting Lib Tags)
+
+#c:end_stones
+- minecraft:end_stone (from Porting Lib Tags)
+
+#c:diamond_ores
+- #minecraft:diamond_ores (from Porting Lib Tags)
+
+#c:redstone_blocks
+- minecraft:redstone_block (from Porting Lib Tags)
+
+#dehydration:hydrating_stew
+- farmersdelight:beef_stew (from Farmer's Delight)
+- farmersdelight:chicken_soup (from Farmer's Delight)
+- farmersdelight:vegetable_soup (from Farmer's Delight)
+- farmersdelight:fish_stew (from Farmer's Delight)
+- farmersdelight:pumpkin_soup (from Farmer's Delight)
+- farmersdelight:baked_cod_stew (from Farmer's Delight)
+- farmersdelight:noodle_soup (from Farmer's Delight)
+
+#c:black_dyes
+- minecraft:black_dye (from Fabric Convention Tags)
+- minecraft:black_dye (from Porting Lib Tags)
+
+#c:raw_chicken
+- minecraft:chicken (from Farmer's Delight)
+- farmersdelight:chicken_cuts (from Farmer's Delight)
+
+#c:lapis
+- minecraft:lapis_lazuli (from Fabric Convention Tags)
+- minecraft:lapis_lazuli (from Porting Lib Tags)
+
+#c:dough
+- farmersdelight:wheat_dough (from Farmer's Delight)
+- #c:doughs? (from Farmer's Delight)
+
+#create:upright_on_belt
+- farmersdelight:milk_bottle (from Farmer's Delight)
+- farmersdelight:hot_cocoa (from Farmer's Delight)
+- farmersdelight:pie_crust (from Farmer's Delight)
+- farmersdelight:apple_pie (from Farmer's Delight)
+- farmersdelight:sweet_berry_cheesecake (from Farmer's Delight)
+- farmersdelight:chocolate_pie (from Farmer's Delight)
+
+#terralith:spire/common_tools
+- minecraft:iron_pickaxe (from Terralith)
+- minecraft:iron_shovel (from Terralith)
+- minecraft:iron_axe (from Terralith)
+- minecraft:iron_sword (from Terralith)
+- minecraft:golden_helmet (from Terralith)
+- minecraft:golden_chestplate (from Terralith)
+- minecraft:golden_leggings (from Terralith)
+- minecraft:golden_boots (from Terralith)
+
+#minecraft:wool
+- minecraft:white_wool (from Default)
+- minecraft:orange_wool (from Default)
+- minecraft:magenta_wool (from Default)
+- minecraft:light_blue_wool (from Default)
+- minecraft:yellow_wool (from Default)
+- minecraft:lime_wool (from Default)
+- minecraft:pink_wool (from Default)
+- minecraft:gray_wool (from Default)
+- minecraft:light_gray_wool (from Default)
+- minecraft:cyan_wool (from Default)
+- minecraft:purple_wool (from Default)
+- minecraft:blue_wool (from Default)
+- minecraft:brown_wool (from Default)
+- minecraft:green_wool (from Default)
+- minecraft:red_wool (from Default)
+- minecraft:black_wool (from Default)
+
+#c:tools/shovels
+- minecraft:wooden_shovel (from Farmer's Delight)
+- minecraft:stone_shovel (from Farmer's Delight)
+- minecraft:iron_shovel (from Farmer's Delight)
+- minecraft:diamond_shovel (from Farmer's Delight)
+- minecraft:golden_shovel (from Farmer's Delight)
+- minecraft:netherite_shovel (from Farmer's Delight)
+
+#c:gold_nuggets
+- minecraft:gold_nugget (from Porting Lib Tags)
+
+#c:raw_beef
+- minecraft:beef (from Farmer's Delight)
+- farmersdelight:minced_beef (from Farmer's Delight)
+
+#c:gunpowder
+- minecraft:gunpowder (from Porting Lib Tags)
+
+#c:storage_blocks
+- #c:amethyst_blocks (from Porting Lib Tags)
+- #c:coal_blocks (from Porting Lib Tags)
+- #c:copper_blocks (from Porting Lib Tags)
+- #c:diamond_blocks (from Porting Lib Tags)
+- #c:emerald_blocks (from Porting Lib Tags)
+- #c:gold_blocks (from Porting Lib Tags)
+- #c:iron_blocks (from Porting Lib Tags)
+- #c:lapis_blocks (from Porting Lib Tags)
+- #c:quartz_blocks (from Porting Lib Tags)
+- #c:raw_copper_blocks (from Porting Lib Tags)
+- #c:raw_gold_blocks (from Porting Lib Tags)
+- #c:raw_iron_blocks (from Porting Lib Tags)
+- #c:redstone_blocks (from Porting Lib Tags)
+- #c:netherite_blocks (from Porting Lib Tags)
+
+#c:seeds/cabbage
+- farmersdelight:cabbage_seeds (from Farmer's Delight)
+
+#c:boots
+- minecraft:leather_boots (from Porting Lib Tags)
+- minecraft:chainmail_boots (from Porting Lib Tags)
+- minecraft:iron_boots (from Porting Lib Tags)
+- minecraft:golden_boots (from Porting Lib Tags)
+- minecraft:diamond_boots (from Porting Lib Tags)
+- minecraft:netherite_boots (from Porting Lib Tags)
+
+#c:milk
+- #c:milk/milk (from Farmer's Delight)
+- #c:milk/milk_bottle (from Farmer's Delight)
+
+#minecraft:wool_carpets
+- minecraft:white_carpet (from Default)
+- minecraft:orange_carpet (from Default)
+- minecraft:magenta_carpet (from Default)
+- minecraft:light_blue_carpet (from Default)
+- minecraft:yellow_carpet (from Default)
+- minecraft:lime_carpet (from Default)
+- minecraft:pink_carpet (from Default)
+- minecraft:gray_carpet (from Default)
+- minecraft:light_gray_carpet (from Default)
+- minecraft:cyan_carpet (from Default)
+- minecraft:purple_carpet (from Default)
+- minecraft:blue_carpet (from Default)
+- minecraft:brown_carpet (from Default)
+- minecraft:green_carpet (from Default)
+- minecraft:red_carpet (from Default)
+- minecraft:black_carpet (from Default)
+
+#c:raw_pork
+- minecraft:porkchop (from Farmer's Delight)
+- farmersdelight:bacon (from Farmer's Delight)
+
+#c:lime_dyes
+- minecraft:lime_dye (from Fabric Convention Tags)
+- minecraft:lime_dye (from Porting Lib Tags)
+
+#c:dyes
+- #c:black_dyes? (from Fabric Convention Tags)
+- #c:blue_dyes? (from Fabric Convention Tags)
+- #c:brown_dyes? (from Fabric Convention Tags)
+- #c:green_dyes? (from Fabric Convention Tags)
+- #c:red_dyes? (from Fabric Convention Tags)
+- #c:white_dyes? (from Fabric Convention Tags)
+- #c:yellow_dyes? (from Fabric Convention Tags)
+- #c:light_gray_dyes? (from Fabric Convention Tags)
+- #c:light_blue_dyes? (from Fabric Convention Tags)
+- #c:lime_dyes? (from Fabric Convention Tags)
+- #c:magenta_dyes? (from Fabric Convention Tags)
+- #c:orange_dyes? (from Fabric Convention Tags)
+- #c:pink_dyes? (from Fabric Convention Tags)
+- #c:cyan_dyes? (from Fabric Convention Tags)
+- #c:gray_dyes? (from Fabric Convention Tags)
+- #c:purple_dyes? (from Fabric Convention Tags)
+- #c:white_dyes (from Porting Lib Tags)
+- #c:orange_dyes (from Porting Lib Tags)
+- #c:magenta_dyes (from Porting Lib Tags)
+- #c:light_blue_dyes (from Porting Lib Tags)
+- #c:yellow_dyes (from Porting Lib Tags)
+- #c:lime_dyes (from Porting Lib Tags)
+- #c:pink_dyes (from Porting Lib Tags)
+- #c:gray_dyes (from Porting Lib Tags)
+- #c:light_gray_dyes (from Porting Lib Tags)
+- #c:cyan_dyes (from Porting Lib Tags)
+- #c:purple_dyes (from Porting Lib Tags)
+- #c:blue_dyes (from Porting Lib Tags)
+- #c:brown_dyes (from Porting Lib Tags)
+- #c:green_dyes (from Porting Lib Tags)
+- #c:red_dyes (from Porting Lib Tags)
+- #c:black_dyes (from Porting Lib Tags)
+
+#c:cooked_pork
+- minecraft:cooked_porkchop (from Farmer's Delight)
+- farmersdelight:cooked_bacon (from Farmer's Delight)
+
+#nethersdelight:tools/machetes
+- nethersdelight:iron_machete (from Nether's Delight)
+- nethersdelight:diamond_machete (from Nether's Delight)
+- nethersdelight:netherite_machete (from Nether's Delight)
+- nethersdelight:golden_machete (from Nether's Delight)
+
+#c:lime_glass
+- minecraft:lime_stained_glass (from Porting Lib Tags)
+
+#c:brown_dyes
+- minecraft:brown_dye (from Fabric Convention Tags)
+- minecraft:brown_dye (from Porting Lib Tags)
+
+#c:blaze_rods
+- minecraft:blaze_rod (from Porting Lib Tags)
+
+#c:lapis_blocks
+- minecraft:lapis_block (from Porting Lib Tags)
+
+#c:deepslate_cobblestone
+- minecraft:cobbled_deepslate (from Porting Lib Tags)
+
+#minecraft:warped_stems
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+
+#c:yellow_glass_panes
+- minecraft:yellow_stained_glass_pane (from Porting Lib Tags)
+
+#c:ore_bearing_ground/stone
+- minecraft:stone (from Porting Lib Tags)
+
+#c:dusts
+- #c:dusts/glowstone (from Porting Lib Tags)
+- #c:dusts/prismarine (from Porting Lib Tags)
+- #c:dusts/redstone (from Porting Lib Tags)
+
+#c:crops
+- #c:crops/cabbage (from Farmer's Delight)
+- #c:crops/onion (from Farmer's Delight)
+- #c:crops/rice (from Farmer's Delight)
+- #c:crops/tomato (from Farmer's Delight)
+- #c:crops/beetroot (from Porting Lib Tags)
+- #c:crops/carrot (from Porting Lib Tags)
+- #c:crops/nether_wart (from Porting Lib Tags)
+- #c:crops/potato (from Porting Lib Tags)
+- #c:crops/wheat (from Porting Lib Tags)
+
+#c:cooked_bacon
+- farmersdelight:cooked_bacon (from Farmer's Delight)
+
+#c:lapis_ores
+- #minecraft:lapis_ores (from Porting Lib Tags)
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log (from Default)
+- minecraft:dark_oak_wood (from Default)
+- minecraft:stripped_dark_oak_log (from Default)
+- minecraft:stripped_dark_oak_wood (from Default)
+
+#terralith:spire/diamond
+- minecraft:diamond (from Terralith)
+- minecraft:diamond_ore (from Terralith)
+- minecraft:deepslate_diamond_ore (from Terralith)
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:crimson_fence_gate (from Default)
+- minecraft:warped_fence_gate (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+
+#runes:rune_crafting/reagent/frost_medium
+- minecraft:ice (from Runes)
+- minecraft:packed_ice (from Runes)
+- minecraft:blue_ice (from Runes)
+
+#minecraft:coals
+- minecraft:coal (from Default)
+- minecraft:charcoal (from Default)
+
+#c:pink_glass
+- minecraft:pink_stained_glass (from Porting Lib Tags)
+
+#minecraft:piglin_food
+- minecraft:porkchop (from Default)
+- minecraft:cooked_porkchop (from Default)
+- nethersdelight:hoglin_loin (from Nether's Delight)
+- nethersdelight:hoglin_sirloin (from Nether's Delight)
+
+#c:quartz_ores
+- minecraft:nether_quartz_ore (from Fabric Convention Tags)
+- minecraft:nether_quartz_ore (from Porting Lib Tags)
+
+#c:sandstones
+- minecraft:sandstone (from Fabric Waystones)
+- minecraft:smooth_sandstone (from Fabric Waystones)
+- minecraft:chiseled_sandstone (from Fabric Waystones)
+- minecraft:cut_sandstone (from Fabric Waystones)
+
+#c:red_sand
+- minecraft:red_sand (from Porting Lib Tags)
+
+#naturalist:giraffe_food_items
+- minecraft:apple (from Naturalist)
+- minecraft:golden_apple (from Naturalist)
+- minecraft:hay_block (from Naturalist)
+
+#c:nether_brick_fences
+- minecraft:nether_brick_fence (from Porting Lib Tags)
+
+#c:emerald_ores
+- #minecraft:emerald_ores (from Porting Lib Tags)
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore (from Default)
+- minecraft:deepslate_lapis_ore (from Default)
+
+#c:emeralds
+- minecraft:emerald (from Fabric Convention Tags)
+- minecraft:emerald (from Porting Lib Tags)
+
+#c:light_gray_glass_panes
+- minecraft:light_gray_stained_glass_pane (from Porting Lib Tags)
+
+#c:green_dyes
+- minecraft:green_dye (from Fabric Convention Tags)
+- minecraft:green_dye (from Porting Lib Tags)
+
+#c:seeds/rice
+- farmersdelight:rice (from Farmer's Delight)
+
+#c:red_glass
+- minecraft:red_stained_glass (from Porting Lib Tags)
+
+#c:ore_bearing_ground/netherrack
+- minecraft:netherrack (from Porting Lib Tags)
+
+#c:dusts/redstone
+- minecraft:redstone (from Porting Lib Tags)
+
+#c:ore_rates/sparse
+- minecraft:nether_gold_ore (from Porting Lib Tags)
+
+#minecraft:fences
+- #minecraft:wooden_fences (from Default)
+- minecraft:nether_brick_fence (from Default)
+
+#minecraft:saplings
+- minecraft:oak_sapling (from Default)
+- minecraft:spruce_sapling (from Default)
+- minecraft:birch_sapling (from Default)
+- minecraft:jungle_sapling (from Default)
+- minecraft:acacia_sapling (from Default)
+- minecraft:dark_oak_sapling (from Default)
+- minecraft:azalea (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#minecraft:beds
+- minecraft:red_bed (from Default)
+- minecraft:black_bed (from Default)
+- minecraft:blue_bed (from Default)
+- minecraft:brown_bed (from Default)
+- minecraft:cyan_bed (from Default)
+- minecraft:gray_bed (from Default)
+- minecraft:green_bed (from Default)
+- minecraft:light_blue_bed (from Default)
+- minecraft:light_gray_bed (from Default)
+- minecraft:lime_bed (from Default)
+- minecraft:magenta_bed (from Default)
+- minecraft:orange_bed (from Default)
+- minecraft:pink_bed (from Default)
+- minecraft:purple_bed (from Default)
+- minecraft:white_bed (from Default)
+- minecraft:yellow_bed (from Default)
+
+#minecraft:doors
+- #minecraft:wooden_doors (from Default)
+- minecraft:iron_door (from Default)
+
+#minecraft:banners
+- minecraft:white_banner (from Default)
+- minecraft:orange_banner (from Default)
+- minecraft:magenta_banner (from Default)
+- minecraft:light_blue_banner (from Default)
+- minecraft:yellow_banner (from Default)
+- minecraft:lime_banner (from Default)
+- minecraft:pink_banner (from Default)
+- minecraft:gray_banner (from Default)
+- minecraft:light_gray_banner (from Default)
+- minecraft:cyan_banner (from Default)
+- minecraft:purple_banner (from Default)
+- minecraft:blue_banner (from Default)
+- minecraft:brown_banner (from Default)
+- minecraft:green_banner (from Default)
+- minecraft:red_banner (from Default)
+- minecraft:black_banner (from Default)
+
+#minecraft:wooden_fences
+- minecraft:oak_fence (from Default)
+- minecraft:acacia_fence (from Default)
+- minecraft:dark_oak_fence (from Default)
+- minecraft:spruce_fence (from Default)
+- minecraft:birch_fence (from Default)
+- minecraft:jungle_fence (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:mangrove_fence (from Default)
+
+#c:ores_in_ground/deepslate
+- minecraft:deepslate_coal_ore (from Porting Lib Tags)
+- minecraft:deepslate_copper_ore (from Porting Lib Tags)
+- minecraft:deepslate_diamond_ore (from Porting Lib Tags)
+- minecraft:deepslate_emerald_ore (from Porting Lib Tags)
+- minecraft:deepslate_gold_ore (from Porting Lib Tags)
+- minecraft:deepslate_iron_ore (from Porting Lib Tags)
+- minecraft:deepslate_lapis_ore (from Porting Lib Tags)
+- minecraft:deepslate_redstone_ore (from Porting Lib Tags)
+
+#c:redstone_dusts
+- minecraft:redstone (from Fabric Convention Tags)
+
+#c:gold_raw_materials
+- minecraft:raw_gold (from Porting Lib Tags)
+
+#c:feathers
+- minecraft:feather (from Porting Lib Tags)
+
+#dehydration:hydrating_food
+- farmersdelight:melon_popsicle (from Farmer's Delight)
+
+#c:cooked_beef
+- minecraft:cooked_beef (from Farmer's Delight)
+- farmersdelight:beef_patty (from Farmer's Delight)
+
+#c:amethyst_blocks
+- minecraft:amethyst_block (from Porting Lib Tags)
+
+#c:tools/knives
+- farmersdelight:flint_knife (from Farmer's Delight)
+- farmersdelight:iron_knife (from Farmer's Delight)
+- farmersdelight:diamond_knife (from Farmer's Delight)
+- farmersdelight:golden_knife (from Farmer's Delight)
+- farmersdelight:netherite_knife (from Farmer's Delight)
+
+#naturalist:snake_tempt_items
+- minecraft:chicken (from Naturalist)
+- minecraft:rabbit (from Naturalist)
+- minecraft:rabbit_foot (from Naturalist)
+- minecraft:slime_ball (from Naturalist)
+- minecraft:egg (from Naturalist)
+- naturalist:snail_shell (from Naturalist)
+
+#minecraft:dampens_vibrations
+- #minecraft:wool (from Default)
+- #minecraft:wool_carpets (from Default)
+
+#wizards:basic_wands
+- wizards:wand_arcane (from Wizards)
+- wizards:wand_fire (from Wizards)
+- wizards:wand_frost (from Wizards)
+
+#runes:rune_crafting/reagent/arcane_medium
+- minecraft:ender_pearl (from Runes)
+- minecraft:amethyst_block (from Runes)
+- minecraft:amethyst_cluster (from Runes)
+
+#c:ore_rates/dense
+- minecraft:copper_ore (from Porting Lib Tags)
+- minecraft:deepslate_copper_ore (from Porting Lib Tags)
+- minecraft:deepslate_lapis_ore (from Porting Lib Tags)
+- minecraft:deepslate_redstone_ore (from Porting Lib Tags)
+- minecraft:lapis_ore (from Porting Lib Tags)
+- minecraft:redstone_ore (from Porting Lib Tags)
+
+#c:seeds
+- #c:seeds/cabbage (from Farmer's Delight)
+- #c:seeds/rice (from Farmer's Delight)
+- #c:seeds/tomato (from Farmer's Delight)
+- #c:beetroot_seeds (from Porting Lib Tags)
+- #c:melon_seeds (from Porting Lib Tags)
+- #c:pumpkin_seeds (from Porting Lib Tags)
+- #c:wheat_seeds (from Porting Lib Tags)
+
+#minecraft:signs
+- minecraft:oak_sign (from Default)
+- minecraft:spruce_sign (from Default)
+- minecraft:birch_sign (from Default)
+- minecraft:acacia_sign (from Default)
+- minecraft:jungle_sign (from Default)
+- minecraft:dark_oak_sign (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:mangrove_sign (from Default)
+
+#c:obsidian
+- minecraft:obsidian (from Porting Lib Tags)
+
+#c:redstone_ores
+- #minecraft:redstone_ores (from Porting Lib Tags)
+
+#minecraft:fishes
+- minecraft:cod (from Default)
+- minecraft:cooked_cod (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cooked_salmon (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:tropical_fish (from Default)
+
+#c:cyan_glass
+- minecraft:cyan_stained_glass (from Porting Lib Tags)
+
+#c:cooked_fishes
+- #c:cooked_fishes/cod (from Farmer's Delight)
+- #c:cooked_fishes/salmon (from Farmer's Delight)
+
+#c:chestplates
+- minecraft:leather_chestplate (from Porting Lib Tags)
+- minecraft:chainmail_chestplate (from Porting Lib Tags)
+- minecraft:iron_chestplate (from Porting Lib Tags)
+- minecraft:golden_chestplate (from Porting Lib Tags)
+- minecraft:diamond_chestplate (from Porting Lib Tags)
+- minecraft:netherite_chestplate (from Porting Lib Tags)
+
+#c:light_blue_dyes
+- minecraft:light_blue_dye (from Fabric Convention Tags)
+- minecraft:light_blue_dye (from Porting Lib Tags)
+
+#c:iron_ingots
+- minecraft:iron_ingot (from Fabric Convention Tags)
+- minecraft:iron_ingot (from Farmer's Delight)
+- minecraft:iron_ingot (from Porting Lib Tags)
+
+#c:wheat_seeds
+- minecraft:wheat_seeds (from Porting Lib Tags)
+
+#c:grain/rice
+- farmersdelight:rice (from Farmer's Delight)
+
+#wizards:basic_staves
+- wizards:staff_arcane (from Wizards)
+- wizards:staff_fire (from Wizards)
+- wizards:staff_frost (from Wizards)
+
+#c:refined_blackstones
+- #c:blackstone_bricks (from Fabric Waystones)
+- #c:polished_blackstones (from Fabric Waystones)
+
+#c:enchanting_fuels
+- #c:lapis (from Porting Lib Tags)
+
+#c:ore_rates/singular
+- minecraft:ancient_debris (from Porting Lib Tags)
+- minecraft:coal_ore (from Porting Lib Tags)
+- minecraft:deepslate_coal_ore (from Porting Lib Tags)
+- minecraft:deepslate_diamond_ore (from Porting Lib Tags)
+- minecraft:deepslate_emerald_ore (from Porting Lib Tags)
+- minecraft:deepslate_gold_ore (from Porting Lib Tags)
+- minecraft:deepslate_iron_ore (from Porting Lib Tags)
+- minecraft:diamond_ore (from Porting Lib Tags)
+- minecraft:emerald_ore (from Porting Lib Tags)
+- minecraft:gold_ore (from Porting Lib Tags)
+- minecraft:iron_ore (from Porting Lib Tags)
+- minecraft:nether_quartz_ore (from Porting Lib Tags)
+
+#c:gray_dyes
+- minecraft:gray_dye (from Fabric Convention Tags)
+- minecraft:gray_dye (from Porting Lib Tags)
+
+#c:sand
+- #c:colorless_sand (from Porting Lib Tags)
+- #c:red_sand (from Porting Lib Tags)
+
+#c:cooked_chicken
+- minecraft:cooked_chicken (from Farmer's Delight)
+- farmersdelight:cooked_chicken_cuts (from Farmer's Delight)
+
+#c:crops/cabbage
+- farmersdelight:cabbage (from Farmer's Delight)
+- farmersdelight:cabbage_leaf (from Farmer's Delight)
+
+#c:raw_copper_blocks
+- minecraft:raw_copper_block (from Fabric Convention Tags)
+- minecraft:raw_copper_block (from Porting Lib Tags)
+
+#c:copper_ores
+- #minecraft:copper_ores (from Porting Lib Tags)
+
+#c:raw_gold_blocks
+- minecraft:raw_gold_block (from Fabric Convention Tags)
+- minecraft:raw_gold_block (from Porting Lib Tags)
+
+#c:vegetables/tomato
+- farmersdelight:tomato (from Farmer's Delight)
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors (from Default)
+- minecraft:iron_trapdoor (from Default)
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore (from Default)
+- minecraft:deepslate_redstone_ore (from Default)
+
+#c:fishing_rods
+- minecraft:fishing_rod (from Porting Lib Tags)
+
+#c:stained_glass_panes
+- minecraft:white_stained_glass_pane (from Porting Lib Tags)
+- minecraft:orange_stained_glass_pane (from Porting Lib Tags)
+- minecraft:magenta_stained_glass_pane (from Porting Lib Tags)
+- minecraft:light_blue_stained_glass_pane (from Porting Lib Tags)
+- minecraft:yellow_stained_glass_pane (from Porting Lib Tags)
+- minecraft:lime_stained_glass_pane (from Porting Lib Tags)
+- minecraft:pink_stained_glass_pane (from Porting Lib Tags)
+- minecraft:gray_stained_glass_pane (from Porting Lib Tags)
+- minecraft:light_gray_stained_glass_pane (from Porting Lib Tags)
+- minecraft:cyan_stained_glass_pane (from Porting Lib Tags)
+- minecraft:purple_stained_glass_pane (from Porting Lib Tags)
+- minecraft:blue_stained_glass_pane (from Porting Lib Tags)
+- minecraft:brown_stained_glass_pane (from Porting Lib Tags)
+- minecraft:green_stained_glass_pane (from Porting Lib Tags)
+- minecraft:red_stained_glass_pane (from Porting Lib Tags)
+- minecraft:black_stained_glass_pane (from Porting Lib Tags)
+
+#dehydration:hydrating_drinks
+- farmersdelight:milk_bottle (from Farmer's Delight)
+- farmersdelight:hot_cocoa (from Farmer's Delight)
+- farmersdelight:melon_juice (from Farmer's Delight)
+- farmersdelight:apple_cider (from Farmer's Delight)
+
+#c:cooked_mutton
+- minecraft:cooked_mutton (from Farmer's Delight)
+- farmersdelight:cooked_mutton_chops (from Farmer's Delight)
+
+#c:crops/rice
+- farmersdelight:rice (from Farmer's Delight)
+
+#c:berries
+- minecraft:sweet_berries (from Farmer's Delight)
+- minecraft:glow_berries (from Farmer's Delight)
+
+#minecraft:boats
+- minecraft:oak_boat (from Default)
+- minecraft:spruce_boat (from Default)
+- minecraft:birch_boat (from Default)
+- minecraft:jungle_boat (from Default)
+- minecraft:acacia_boat (from Default)
+- minecraft:dark_oak_boat (from Default)
+- minecraft:mangrove_boat (from Default)
+- #minecraft:chest_boats (from Default)
+
+#c:amethyst
+- minecraft:amethyst_shard (from Porting Lib Tags)
+
+#c:vegetables
+- #c:vegetables/beetroot (from Farmer's Delight)
+- #c:vegetables/carrot (from Farmer's Delight)
+- #c:vegetables/onion (from Farmer's Delight)
+- #c:vegetables/potato (from Farmer's Delight)
+- #c:vegetables/tomato (from Farmer's Delight)
+
+#c:light_blue_glass_panes
+- minecraft:light_blue_stained_glass_pane (from Porting Lib Tags)
+
+#c:water_buckets
+- minecraft:axolotl_bucket (from Fabric Convention Tags)
+- minecraft:cod_bucket (from Fabric Convention Tags)
+- minecraft:pufferfish_bucket (from Fabric Convention Tags)
+- minecraft:tropical_fish_bucket (from Fabric Convention Tags)
+- minecraft:salmon_bucket (from Fabric Convention Tags)
+- minecraft:tadpole_bucket (from Fabric Convention Tags)
+- minecraft:water_bucket (from Fabric Convention Tags)
+
+#c:pasta
+- #c:pasta/raw_pasta (from Farmer's Delight)
+
+#c:empty_buckets
+- minecraft:bucket (from Fabric Convention Tags)
+
+#minecraft:leaves
+- minecraft:jungle_leaves (from Default)
+- minecraft:oak_leaves (from Default)
+- minecraft:spruce_leaves (from Default)
+- minecraft:dark_oak_leaves (from Default)
+- minecraft:acacia_leaves (from Default)
+- minecraft:birch_leaves (from Default)
+- minecraft:azalea_leaves (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:mangrove_leaves (from Default)
+
+#c:colorless_glass_panes
+- minecraft:glass_pane (from Porting Lib Tags)
+
+#minecraft:walls
+- minecraft:cobblestone_wall (from Default)
+- minecraft:mossy_cobblestone_wall (from Default)
+- minecraft:brick_wall (from Default)
+- minecraft:prismarine_wall (from Default)
+- minecraft:red_sandstone_wall (from Default)
+- minecraft:mossy_stone_brick_wall (from Default)
+- minecraft:granite_wall (from Default)
+- minecraft:stone_brick_wall (from Default)
+- minecraft:nether_brick_wall (from Default)
+- minecraft:andesite_wall (from Default)
+- minecraft:red_nether_brick_wall (from Default)
+- minecraft:sandstone_wall (from Default)
+- minecraft:end_stone_brick_wall (from Default)
+- minecraft:diorite_wall (from Default)
+- minecraft:blackstone_wall (from Default)
+- minecraft:polished_blackstone_brick_wall (from Default)
+- minecraft:polished_blackstone_wall (from Default)
+- minecraft:cobbled_deepslate_wall (from Default)
+- minecraft:polished_deepslate_wall (from Default)
+- minecraft:deepslate_tile_wall (from Default)
+- minecraft:deepslate_brick_wall (from Default)
+- minecraft:mud_brick_wall (from Default)
+
+#c:copper_raw_materials
+- minecraft:raw_copper (from Porting Lib Tags)
+
+#c:diamond_blocks
+- minecraft:diamond_block (from Porting Lib Tags)
+
+#c:string
+- minecraft:string (from Porting Lib Tags)
+
+#c:crops/potato
+- minecraft:potato (from Porting Lib Tags)
+
+#c:blue_glass
+- minecraft:blue_stained_glass (from Porting Lib Tags)
+
+#minecraft:acacia_logs
+- minecraft:acacia_log (from Default)
+- minecraft:acacia_wood (from Default)
+- minecraft:stripped_acacia_log (from Default)
+- minecraft:stripped_acacia_wood (from Default)
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores (from Default)
+- minecraft:gold_block (from Default)
+- minecraft:gilded_blackstone (from Default)
+- minecraft:light_weighted_pressure_plate (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:bell (from Default)
+- minecraft:clock (from Default)
+- minecraft:golden_carrot (from Default)
+- minecraft:glistering_melon_slice (from Default)
+- minecraft:golden_apple (from Default)
+- minecraft:enchanted_golden_apple (from Default)
+- minecraft:golden_helmet (from Default)
+- minecraft:golden_chestplate (from Default)
+- minecraft:golden_leggings (from Default)
+- minecraft:golden_boots (from Default)
+- minecraft:golden_horse_armor (from Default)
+- minecraft:golden_sword (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:golden_shovel (from Default)
+- minecraft:golden_axe (from Default)
+- minecraft:golden_hoe (from Default)
+- minecraft:raw_gold (from Default)
+- minecraft:raw_gold_block (from Default)
+- farmersdelight:golden_knife (from Farmer's Delight)
+- nethersdelight:hoglin_hide (from Nether's Delight)
+- nethersdelight:raw_stuffed_hoglin (from Nether's Delight)
+- nethersdelight:stuffed_hoglin (from Nether's Delight)
+- nethersdelight:golden_machete (from Nether's Delight)
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs (from Default)
+- minecraft:music_disc_pigstep (from Default)
+- minecraft:music_disc_otherside (from Default)
+- minecraft:music_disc_5 (from Default)
+
+#c:salad_ingredients
+- #c:salad_ingredients/cabbage (from Farmer's Delight)
+
+#c:stone
+- minecraft:andesite (from Porting Lib Tags)
+- minecraft:diorite (from Porting Lib Tags)
+- minecraft:granite (from Porting Lib Tags)
+- minecraft:infested_stone (from Porting Lib Tags)
+- minecraft:stone (from Porting Lib Tags)
+- minecraft:polished_andesite (from Porting Lib Tags)
+- minecraft:polished_diorite (from Porting Lib Tags)
+- minecraft:polished_granite (from Porting Lib Tags)
+- minecraft:deepslate (from Porting Lib Tags)
+- minecraft:polished_deepslate (from Porting Lib Tags)
+- minecraft:infested_deepslate (from Porting Lib Tags)
+- minecraft:tuff (from Porting Lib Tags)
+- minecraft:stone (from Fabric Waystones)
+
+#c:magenta_glass_panes
+- minecraft:magenta_stained_glass_pane (from Porting Lib Tags)
+
+#c:blue_dyes
+- minecraft:blue_dye (from Fabric Convention Tags)
+- minecraft:blue_dye (from Porting Lib Tags)
+
+#c:copper_ingots
+- minecraft:copper_ingot (from Fabric Convention Tags)
+- minecraft:copper_ingot (from Porting Lib Tags)
+
+#c:white_glass
+- minecraft:white_stained_glass (from Porting Lib Tags)
+
+#c:swords
+- #fabric:swords? (from Fabric Convention Tags)
+- minecraft:diamond_sword (from Fabric Convention Tags)
+- minecraft:golden_sword (from Fabric Convention Tags)
+- minecraft:wooden_sword (from Fabric Convention Tags)
+- minecraft:stone_sword (from Fabric Convention Tags)
+- minecraft:iron_sword (from Fabric Convention Tags)
+- minecraft:netherite_sword (from Fabric Convention Tags)
+- minecraft:wooden_sword (from Porting Lib Tags)
+- minecraft:stone_sword (from Porting Lib Tags)
+- minecraft:iron_sword (from Porting Lib Tags)
+- minecraft:golden_sword (from Porting Lib Tags)
+- minecraft:diamond_sword (from Porting Lib Tags)
+- minecraft:netherite_sword (from Porting Lib Tags)
+
+#c:armors
+- #c:helmets (from Porting Lib Tags)
+- #c:chestplates (from Porting Lib Tags)
+- #c:leggings (from Porting Lib Tags)
+- #c:boots (from Porting Lib Tags)
+
+#minecraft:sand
+- minecraft:sand (from Default)
+- minecraft:red_sand (from Default)
+
+#minecraft:copper_ores
+- minecraft:copper_ore (from Default)
+- minecraft:deepslate_copper_ore (from Default)
+
+#c:milk/milk_bottle
+- farmersdelight:milk_bottle (from Farmer's Delight)
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs (from Default)
+- #minecraft:oak_logs (from Default)
+- #minecraft:acacia_logs (from Default)
+- #minecraft:birch_logs (from Default)
+- #minecraft:jungle_logs (from Default)
+- #minecraft:spruce_logs (from Default)
+- #minecraft:mangrove_logs (from Default)
+
+#c:raw_fishes/tropical_fish
+- minecraft:tropical_fish (from Farmer's Delight)
+
+#c:ores_in_ground/netherrack
+- minecraft:nether_gold_ore (from Porting Lib Tags)
+- minecraft:nether_quartz_ore (from Porting Lib Tags)
+
+#c:melon_seeds
+- minecraft:melon_seeds (from Porting Lib Tags)
+
+#c:shields
+- minecraft:shield (from Fabric Convention Tags)
+- minecraft:shield (from Porting Lib Tags)
+
+#c:pink_glass_panes
+- minecraft:pink_stained_glass_pane (from Porting Lib Tags)
+
+#c:pasta/raw_pasta
+- farmersdelight:raw_pasta (from Farmer's Delight)
+
+#wizards:wizard_robes
+- wizards:wizard_robe_head (from Wizards)
+- wizards:wizard_robe_chest (from Wizards)
+- wizards:wizard_robe_legs (from Wizards)
+- wizards:wizard_robe_feet (from Wizards)
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot (from Default)
+- minecraft:emerald (from Default)
+- minecraft:diamond (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:iron_ingot (from Default)
+
+#trinkets:chest/cape
+- betterend:elytra_crystalite (from Better End)
+- betterend:elytra_armored (from Better End)
+
+#naturalist:boar_food_items
+- minecraft:carrot (from Naturalist)
+- minecraft:potato (from Naturalist)
+- minecraft:beetroot (from Naturalist)
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab (from Default)
+- minecraft:spruce_slab (from Default)
+- minecraft:birch_slab (from Default)
+- minecraft:jungle_slab (from Default)
+- minecraft:acacia_slab (from Default)
+- minecraft:dark_oak_slab (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:mangrove_slab (from Default)
+
+#c:wooden_chests
+- minecraft:chest (from Porting Lib Tags)
+- minecraft:trapped_chest (from Porting Lib Tags)
+
+#c:light_blue_glass
+- minecraft:light_blue_stained_glass (from Porting Lib Tags)
+
+#minecraft:coal_ores
+- minecraft:coal_ore (from Default)
+- minecraft:deepslate_coal_ore (from Default)
+
+#minecraft:small_flowers
+- minecraft:dandelion (from Default)
+- minecraft:poppy (from Default)
+- minecraft:blue_orchid (from Default)
+- minecraft:allium (from Default)
+- minecraft:azure_bluet (from Default)
+- minecraft:red_tulip (from Default)
+- minecraft:orange_tulip (from Default)
+- minecraft:white_tulip (from Default)
+- minecraft:pink_tulip (from Default)
+- minecraft:oxeye_daisy (from Default)
+- minecraft:cornflower (from Default)
+- minecraft:lily_of_the_valley (from Default)
+- minecraft:wither_rose (from Default)
+- farmersdelight:wild_carrots (from Farmer's Delight)
+- farmersdelight:wild_potatoes (from Farmer's Delight)
+- farmersdelight:wild_beetroots (from Farmer's Delight)
+- farmersdelight:wild_cabbages (from Farmer's Delight)
+- farmersdelight:wild_tomatoes (from Farmer's Delight)
+- farmersdelight:wild_onions (from Farmer's Delight)
+- nethersdelight:mimicarnation (from Nether's Delight)
+
+#c:axes
+- #fabric:axes? (from Fabric Convention Tags)
+- minecraft:diamond_axe (from Fabric Convention Tags)
+- minecraft:golden_axe (from Fabric Convention Tags)
+- minecraft:wooden_axe (from Fabric Convention Tags)
+- minecraft:stone_axe (from Fabric Convention Tags)
+- minecraft:iron_axe (from Fabric Convention Tags)
+- minecraft:netherite_axe (from Fabric Convention Tags)
+- minecraft:wooden_axe (from Porting Lib Tags)
+- minecraft:stone_axe (from Porting Lib Tags)
+- minecraft:iron_axe (from Porting Lib Tags)
+- minecraft:golden_axe (from Porting Lib Tags)
+- minecraft:diamond_axe (from Porting Lib Tags)
+- minecraft:netherite_axe (from Porting Lib Tags)
+
+#c:raw_iron_blocks
+- minecraft:raw_iron_block (from Fabric Convention Tags)
+- minecraft:raw_iron_block (from Porting Lib Tags)
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor (from Default)
+- minecraft:birch_trapdoor (from Default)
+- minecraft:dark_oak_trapdoor (from Default)
+- minecraft:jungle_trapdoor (from Default)
+- minecraft:oak_trapdoor (from Default)
+- minecraft:spruce_trapdoor (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:mangrove_trapdoor (from Default)
+
+#c:tridents
+- minecraft:trident (from Porting Lib Tags)
+
+#c:gold_ores
+- #minecraft:gold_ores (from Porting Lib Tags)
+
+#c:pink_dyes
+- minecraft:pink_dye (from Fabric Convention Tags)
+- minecraft:pink_dye (from Porting Lib Tags)
+
+#c:leggings
+- minecraft:leather_leggings (from Porting Lib Tags)
+- minecraft:chainmail_leggings (from Porting Lib Tags)
+- minecraft:iron_leggings (from Porting Lib Tags)
+- minecraft:golden_leggings (from Porting Lib Tags)
+- minecraft:diamond_leggings (from Porting Lib Tags)
+- minecraft:netherite_leggings (from Porting Lib Tags)
+
+#c:shovels
+- #fabric:shovels? (from Fabric Convention Tags)
+- minecraft:diamond_shovel (from Fabric Convention Tags)
+- minecraft:golden_shovel (from Fabric Convention Tags)
+- minecraft:wooden_shovel (from Fabric Convention Tags)
+- minecraft:stone_shovel (from Fabric Convention Tags)
+- minecraft:iron_shovel (from Fabric Convention Tags)
+- minecraft:netherite_shovel (from Fabric Convention Tags)
+- minecraft:wooden_shovel (from Porting Lib Tags)
+- minecraft:stone_shovel (from Porting Lib Tags)
+- minecraft:iron_shovel (from Porting Lib Tags)
+- minecraft:golden_shovel (from Porting Lib Tags)
+- minecraft:diamond_shovel (from Porting Lib Tags)
+- minecraft:netherite_shovel (from Porting Lib Tags)
+
+#c:iron_nuggets
+- minecraft:iron_nugget (from Porting Lib Tags)
+
+#c:fence_gates
+- #c:wooden_fence_gates (from Porting Lib Tags)
+
+#c:crops/carrot
+- minecraft:carrot (from Porting Lib Tags)
+
+#farmersdelight:wild_crops
+- farmersdelight:wild_carrots (from Farmer's Delight)
+- farmersdelight:wild_potatoes (from Farmer's Delight)
+- farmersdelight:wild_beetroots (from Farmer's Delight)
+- farmersdelight:wild_cabbages (from Farmer's Delight)
+- farmersdelight:wild_tomatoes (from Farmer's Delight)
+- farmersdelight:wild_onions (from Farmer's Delight)
+- farmersdelight:wild_rice (from Farmer's Delight)
+
+#c:netherite_ingots
+- minecraft:netherite_ingot (from Fabric Convention Tags)
+- minecraft:netherite_ingot (from Porting Lib Tags)
+
+#c:nether_stars
+- minecraft:nether_star (from Porting Lib Tags)
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket (from Default)
+
+#c:spears
+- minecraft:trident (from Fabric Convention Tags)
+
+#c:leather
+- minecraft:leather (from Porting Lib Tags)
+
+#c:cooked_fishes/salmon
+- minecraft:cooked_salmon (from Farmer's Delight)
+- farmersdelight:cooked_salmon_slice (from Farmer's Delight)
+
+#c:quartz_blocks
+- minecraft:quartz_block (from Porting Lib Tags)
+
+#minecraft:stairs
+- #minecraft:wooden_stairs (from Default)
+- minecraft:cobblestone_stairs (from Default)
+- minecraft:sandstone_stairs (from Default)
+- minecraft:nether_brick_stairs (from Default)
+- minecraft:stone_brick_stairs (from Default)
+- minecraft:brick_stairs (from Default)
+- minecraft:purpur_stairs (from Default)
+- minecraft:quartz_stairs (from Default)
+- minecraft:red_sandstone_stairs (from Default)
+- minecraft:prismarine_brick_stairs (from Default)
+- minecraft:prismarine_stairs (from Default)
+- minecraft:dark_prismarine_stairs (from Default)
+- minecraft:polished_granite_stairs (from Default)
+- minecraft:smooth_red_sandstone_stairs (from Default)
+- minecraft:mossy_stone_brick_stairs (from Default)
+- minecraft:polished_diorite_stairs (from Default)
+- minecraft:mossy_cobblestone_stairs (from Default)
+- minecraft:end_stone_brick_stairs (from Default)
+- minecraft:stone_stairs (from Default)
+- minecraft:smooth_sandstone_stairs (from Default)
+- minecraft:smooth_quartz_stairs (from Default)
+- minecraft:granite_stairs (from Default)
+- minecraft:andesite_stairs (from Default)
+- minecraft:red_nether_brick_stairs (from Default)
+- minecraft:polished_andesite_stairs (from Default)
+- minecraft:diorite_stairs (from Default)
+- minecraft:blackstone_stairs (from Default)
+- minecraft:polished_blackstone_brick_stairs (from Default)
+- minecraft:polished_blackstone_stairs (from Default)
+- minecraft:cobbled_deepslate_stairs (from Default)
+- minecraft:polished_deepslate_stairs (from Default)
+- minecraft:deepslate_tile_stairs (from Default)
+- minecraft:deepslate_brick_stairs (from Default)
+- minecraft:oxidized_cut_copper_stairs (from Default)
+- minecraft:weathered_cut_copper_stairs (from Default)
+- minecraft:exposed_cut_copper_stairs (from Default)
+- minecraft:cut_copper_stairs (from Default)
+- minecraft:waxed_weathered_cut_copper_stairs (from Default)
+- minecraft:waxed_exposed_cut_copper_stairs (from Default)
+- minecraft:waxed_cut_copper_stairs (from Default)
+- minecraft:waxed_oxidized_cut_copper_stairs (from Default)
+- minecraft:mud_brick_stairs (from Default)
+
+#c:purple_dyes
+- minecraft:purple_dye (from Fabric Convention Tags)
+- minecraft:purple_dye (from Porting Lib Tags)
+
+#c:eggs
+- minecraft:egg (from Farmer's Delight)
+- minecraft:egg (from Porting Lib Tags)
+
+#c:white_glass_panes
+- minecraft:white_stained_glass_pane (from Porting Lib Tags)
+
+#c:tools/pickaxes
+- minecraft:wooden_pickaxe (from Farmer's Delight)
+- minecraft:stone_pickaxe (from Farmer's Delight)
+- minecraft:iron_pickaxe (from Farmer's Delight)
+- minecraft:diamond_pickaxe (from Farmer's Delight)
+- minecraft:golden_pickaxe (from Farmer's Delight)
+- minecraft:netherite_pickaxe (from Farmer's Delight)
+
+#naturalist:bird_food_items
+- minecraft:wheat_seeds (from Naturalist)
+- minecraft:pumpkin_seeds (from Naturalist)
+- minecraft:melon_seeds (from Naturalist)
+- minecraft:beetroot_seeds (from Naturalist)
+
+#minecraft:logs
+- #minecraft:logs_that_burn (from Default)
+- #minecraft:crimson_stems (from Default)
+- #minecraft:warped_stems (from Default)
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13 (from Default)
+- minecraft:music_disc_cat (from Default)
+- minecraft:music_disc_blocks (from Default)
+- minecraft:music_disc_chirp (from Default)
+- minecraft:music_disc_far (from Default)
+- minecraft:music_disc_mall (from Default)
+- minecraft:music_disc_mellohi (from Default)
+- minecraft:music_disc_stal (from Default)
+- minecraft:music_disc_strad (from Default)
+- minecraft:music_disc_ward (from Default)
+- minecraft:music_disc_11 (from Default)
+- minecraft:music_disc_wait (from Default)
+
+#c:nuggets
+- #c:iron_nuggets (from Porting Lib Tags)
+- #c:gold_nuggets (from Porting Lib Tags)
+
+#c:coal_blocks
+- minecraft:coal_block (from Porting Lib Tags)
+
+#minecraft:compasses
+- minecraft:compass (from Default)
+- minecraft:recovery_compass (from Default)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:tipped_arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+
+#c:raw_fishes
+- #c:raw_fishes/cod (from Farmer's Delight)
+- #c:raw_fishes/salmon (from Farmer's Delight)
+- #c:raw_fishes/tropical_fish (from Farmer's Delight)
+
+#c:pickaxes
+- #fabric:pickaxes? (from Fabric Convention Tags)
+- minecraft:diamond_pickaxe (from Fabric Convention Tags)
+- minecraft:golden_pickaxe (from Fabric Convention Tags)
+- minecraft:wooden_pickaxe (from Fabric Convention Tags)
+- minecraft:stone_pickaxe (from Fabric Convention Tags)
+- minecraft:iron_pickaxe (from Fabric Convention Tags)
+- minecraft:netherite_pickaxe (from Fabric Convention Tags)
+- minecraft:wooden_pickaxe (from Porting Lib Tags)
+- minecraft:stone_pickaxe (from Porting Lib Tags)
+- minecraft:iron_pickaxe (from Porting Lib Tags)
+- minecraft:golden_pickaxe (from Porting Lib Tags)
+- minecraft:diamond_pickaxe (from Porting Lib Tags)
+- minecraft:netherite_pickaxe (from Porting Lib Tags)
+
+#c:gems
+- #c:amethyst (from Porting Lib Tags)
+- #c:diamonds (from Porting Lib Tags)
+- #c:emeralds (from Porting Lib Tags)
+- #c:lapis (from Porting Lib Tags)
+- #c:prismarine (from Porting Lib Tags)
+- #c:quartz (from Porting Lib Tags)
+
+#c:crops/nether_wart
+- minecraft:nether_wart (from Porting Lib Tags)
+
+#c:gravel
+- minecraft:gravel (from Porting Lib Tags)
+
+#c:white_dyes
+- minecraft:white_dye (from Fabric Convention Tags)
+- minecraft:white_dye (from Porting Lib Tags)
+
+#minecraft:wooden_doors
+- minecraft:oak_door (from Default)
+- minecraft:spruce_door (from Default)
+- minecraft:birch_door (from Default)
+- minecraft:jungle_door (from Default)
+- minecraft:acacia_door (from Default)
+- minecraft:dark_oak_door (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:mangrove_door (from Default)
+
+#c:trapped_chests
+- minecraft:trapped_chest (from Porting Lib Tags)
+
+#c:wooden_barrels
+- minecraft:barrel (from Porting Lib Tags)
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore (from Default)
+- minecraft:deepslate_emerald_ore (from Default)
+
+#c:cyan_glass_panes
+- minecraft:cyan_stained_glass_pane (from Porting Lib Tags)
+
+#c:yellow_glass
+- minecraft:yellow_stained_glass (from Porting Lib Tags)
+
+#c:vegetables/beetroot
+- minecraft:beetroot (from Farmer's Delight)
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+
+#farmersdelight:cabinets
+- #farmersdelight:cabinets/wooden (from Farmer's Delight)
+
+#c:gold_ingots
+- minecraft:gold_ingot (from Fabric Convention Tags)
+- minecraft:gold_ingot (from Porting Lib Tags)
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather (from Default)
+
+#c:colorless_glass
+- minecraft:glass (from Porting Lib Tags)
+
+#farmersdelight:cabinets/wooden
+- farmersdelight:acacia_cabinet (from Farmer's Delight)
+- farmersdelight:birch_cabinet (from Farmer's Delight)
+- farmersdelight:crimson_cabinet (from Farmer's Delight)
+- farmersdelight:dark_oak_cabinet (from Farmer's Delight)
+- farmersdelight:jungle_cabinet (from Farmer's Delight)
+- farmersdelight:oak_cabinet (from Farmer's Delight)
+- farmersdelight:spruce_cabinet (from Farmer's Delight)
+- farmersdelight:warped_cabinet (from Farmer's Delight)
+
+#c:tinted_glass
+- minecraft:tinted_glass (from Porting Lib Tags)
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+- minecraft:cobblestone (from Terralith)
+- minecraft:blackstone (from Terralith)
+- minecraft:cobbled_deepslate (from Terralith)
+- minecraft:granite (from Terralith)
+- minecraft:andesite (from Terralith)
+- minecraft:diorite (from Terralith)
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block (from Default)
+- minecraft:warped_wart_block (from Default)
+
+#minecraft:terracotta
+- minecraft:terracotta (from Default)
+- minecraft:white_terracotta (from Default)
+- minecraft:orange_terracotta (from Default)
+- minecraft:magenta_terracotta (from Default)
+- minecraft:light_blue_terracotta (from Default)
+- minecraft:yellow_terracotta (from Default)
+- minecraft:lime_terracotta (from Default)
+- minecraft:pink_terracotta (from Default)
+- minecraft:gray_terracotta (from Default)
+- minecraft:light_gray_terracotta (from Default)
+- minecraft:cyan_terracotta (from Default)
+- minecraft:purple_terracotta (from Default)
+- minecraft:blue_terracotta (from Default)
+- minecraft:brown_terracotta (from Default)
+- minecraft:green_terracotta (from Default)
+- minecraft:red_terracotta (from Default)
+- minecraft:black_terracotta (from Default)
+
+#c:salad_ingredients/cabbage
+- farmersdelight:cabbage (from Farmer's Delight)
+- farmersdelight:cabbage_leaf (from Farmer's Delight)
+
+#c:wooden_fence_gates
+- minecraft:oak_fence_gate (from Porting Lib Tags)
+- minecraft:spruce_fence_gate (from Porting Lib Tags)
+- minecraft:birch_fence_gate (from Porting Lib Tags)
+- minecraft:jungle_fence_gate (from Porting Lib Tags)
+- minecraft:acacia_fence_gate (from Porting Lib Tags)
+- minecraft:dark_oak_fence_gate (from Porting Lib Tags)
+- minecraft:crimson_fence_gate (from Porting Lib Tags)
+- minecraft:warped_fence_gate (from Porting Lib Tags)
+
+#c:green_glass
+- minecraft:green_stained_glass (from Porting Lib Tags)
+
+#c:vegetables/onion
+- farmersdelight:onion (from Farmer's Delight)
+
+#c:tools
+- #c:tools/axes (from Farmer's Delight)
+- #c:tools/knives (from Farmer's Delight)
+- #c:tools/pickaxes (from Farmer's Delight)
+- #c:tools/shovels (from Farmer's Delight)
+- #c:swords (from Porting Lib Tags)
+- #c:axes (from Porting Lib Tags)
+- #c:pickaxes (from Porting Lib Tags)
+- #c:shovels (from Porting Lib Tags)
+- #c:hoes (from Porting Lib Tags)
+- #c:shields (from Porting Lib Tags)
+- #c:bows (from Porting Lib Tags)
+- #c:crossbows (from Porting Lib Tags)
+- #c:fishing_rods (from Porting Lib Tags)
+- #c:tridents (from Porting Lib Tags)
+
+#c:light_gray_dyes
+- minecraft:light_gray_dye (from Fabric Convention Tags)
+- minecraft:light_gray_dye (from Porting Lib Tags)
+
+#c:emerald_blocks
+- minecraft:emerald_block (from Porting Lib Tags)
+
+#c:colorless_sand
+- minecraft:sand (from Porting Lib Tags)
+
+#c:nether_bricks
+- minecraft:nether_bricks (from Fabric Waystones)
+- minecraft:chiseled_nether_bricks (from Fabric Waystones)
+- minecraft:cracked_nether_bricks (from Fabric Waystones)
+
+#c:chests
+- #c:ender_chests (from Porting Lib Tags)
+- #c:trapped_chests (from Porting Lib Tags)
+- #c:wooden_chests (from Porting Lib Tags)
+
+#c:stained_glass
+- minecraft:white_stained_glass (from Porting Lib Tags)
+- minecraft:orange_stained_glass (from Porting Lib Tags)
+- minecraft:magenta_stained_glass (from Porting Lib Tags)
+- minecraft:light_blue_stained_glass (from Porting Lib Tags)
+- minecraft:yellow_stained_glass (from Porting Lib Tags)
+- minecraft:lime_stained_glass (from Porting Lib Tags)
+- minecraft:pink_stained_glass (from Porting Lib Tags)
+- minecraft:gray_stained_glass (from Porting Lib Tags)
+- minecraft:light_gray_stained_glass (from Porting Lib Tags)
+- minecraft:cyan_stained_glass (from Porting Lib Tags)
+- minecraft:purple_stained_glass (from Porting Lib Tags)
+- minecraft:blue_stained_glass (from Porting Lib Tags)
+- minecraft:brown_stained_glass (from Porting Lib Tags)
+- minecraft:green_stained_glass (from Porting Lib Tags)
+- minecraft:red_stained_glass (from Porting Lib Tags)
+- minecraft:black_stained_glass (from Porting Lib Tags)
+
+#c:silica_glass
+- minecraft:glass (from Porting Lib Tags)
+- minecraft:black_stained_glass (from Porting Lib Tags)
+- minecraft:blue_stained_glass (from Porting Lib Tags)
+- minecraft:brown_stained_glass (from Porting Lib Tags)
+- minecraft:cyan_stained_glass (from Porting Lib Tags)
+- minecraft:gray_stained_glass (from Porting Lib Tags)
+- minecraft:green_stained_glass (from Porting Lib Tags)
+- minecraft:light_blue_stained_glass (from Porting Lib Tags)
+- minecraft:light_gray_stained_glass (from Porting Lib Tags)
+- minecraft:lime_stained_glass (from Porting Lib Tags)
+- minecraft:magenta_stained_glass (from Porting Lib Tags)
+- minecraft:orange_stained_glass (from Porting Lib Tags)
+- minecraft:pink_stained_glass (from Porting Lib Tags)
+- minecraft:purple_stained_glass (from Porting Lib Tags)
+- minecraft:red_stained_glass (from Porting Lib Tags)
+- minecraft:white_stained_glass (from Porting Lib Tags)
+- minecraft:yellow_stained_glass (from Porting Lib Tags)
+
+#farmersdelight:straw_harvesters
+- #c:tools/knives (from Farmer's Delight)
+
+#c:black_glass_panes
+- minecraft:black_stained_glass_pane (from Porting Lib Tags)
+
+#shoppy:trading_blocks
+- shoppy:shop_block (from Shoppy)
+- shoppy:bartering_station (from Shoppy)
+
+#c:wooden_fences
+- #minecraft:wooden_fences (from Porting Lib Tags)
+
+#c:ingots
+- #c:brick_ingots (from Porting Lib Tags)
+- #c:copper_ingots (from Porting Lib Tags)
+- #c:gold_ingots (from Porting Lib Tags)
+- #c:iron_ingots (from Porting Lib Tags)
+- #c:netherite_ingots (from Porting Lib Tags)
+- #c:nether_brick_ingots (from Porting Lib Tags)
+
+#minecraft:anvil
+- minecraft:anvil (from Default)
+- minecraft:chipped_anvil (from Default)
+- minecraft:damaged_anvil (from Default)
+
+#c:iron_blocks
+- minecraft:iron_block (from Porting Lib Tags)
+
+#minecraft:birch_logs
+- minecraft:birch_log (from Default)
+- minecraft:birch_wood (from Default)
+- minecraft:stripped_birch_log (from Default)
+- minecraft:stripped_birch_wood (from Default)
+
+#c:coal_ores
+- #minecraft:coal_ores (from Porting Lib Tags)
+
+#c:netherite_scrap_ores
+- minecraft:ancient_debris (from Porting Lib Tags)
+
+#c:tools/axes
+- minecraft:wooden_axe (from Farmer's Delight)
+- minecraft:stone_axe (from Farmer's Delight)
+- minecraft:iron_axe (from Farmer's Delight)
+- minecraft:diamond_axe (from Farmer's Delight)
+- minecraft:golden_axe (from Farmer's Delight)
+- minecraft:netherite_axe (from Farmer's Delight)
+
+#c:raw_gold_ores
+- minecraft:raw_gold (from Fabric Convention Tags)
+
+#nethersdelight:meal_item
+- minecraft:mushroom_stew (from Nether's Delight)
+- minecraft:beetroot_soup (from Nether's Delight)
+- minecraft:rabbit_stew (from Nether's Delight)
+- minecraft:suspicious_stew (from Nether's Delight)
+- farmersdelight:tomato_sauce (from Nether's Delight)
+- farmersdelight:fruit_salad (from Nether's Delight)
+- farmersdelight:mixed_salad (from Nether's Delight)
+- farmersdelight:nether_salad (from Nether's Delight)
+- farmersdelight:cooked_rice (from Nether's Delight)
+- farmersdelight:beef_stew (from Nether's Delight)
+- farmersdelight:chicken_soup (from Nether's Delight)
+- farmersdelight:vegetable_soup (from Nether's Delight)
+- farmersdelight:fish_stew (from Nether's Delight)
+- farmersdelight:fried_rice (from Nether's Delight)
+- farmersdelight:pumpkin_soup (from Nether's Delight)
+- farmersdelight:baked_cod_stew (from Nether's Delight)
+- farmersdelight:noodle_soup (from Nether's Delight)
+- farmersdelight:bacon_and_eggs (from Nether's Delight)
+- farmersdelight:pasta_with_meatballs (from Nether's Delight)
+- farmersdelight:pasta_with_mutton_chop (from Nether's Delight)
+- farmersdelight:roasted_mutton_chops (from Nether's Delight)
+- farmersdelight:vegetable_noodles (from Nether's Delight)
+- farmersdelight:steak_and_potatoes (from Nether's Delight)
+- farmersdelight:ratatouille (from Nether's Delight)
+- farmersdelight:squid_ink_pasta (from Nether's Delight)
+- farmersdelight:grilled_salmon (from Nether's Delight)
+- farmersdelight:roast_chicken (from Nether's Delight)
+- farmersdelight:stuffed_pumpkin (from Nether's Delight)
+- farmersdelight:honey_glazed_ham (from Nether's Delight)
+- farmersdelight:shepherds_pie (from Nether's Delight)
+- nethersdelight:warped_moldy_meat (from Nether's Delight)
+- nethersdelight:grilled_strider (from Nether's Delight)
+- nethersdelight:strider_moss_stew (from Nether's Delight)
+- nethersdelight:plate_of_stuffed_hoglin_snout (from Nether's Delight)
+- nethersdelight:plate_of_stuffed_hoglin_ham (from Nether's Delight)
+- nethersdelight:plate_of_stuffed_hoglin_roast (from Nether's Delight)
+
+#c:bread
+- #c:bread/wheat (from Farmer's Delight)
+
+#c:glass_panes
+- minecraft:glass_pane (from Fabric Convention Tags)
+- minecraft:gray_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:black_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:orange_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:blue_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:brown_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:cyan_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:green_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:light_blue_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:light_gray_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:lime_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:magenta_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:pink_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:purple_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:red_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:white_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:yellow_stained_glass_pane (from Fabric Convention Tags)
+- #c:colorless_glass_panes (from Porting Lib Tags)
+- #c:stained_glass_panes (from Porting Lib Tags)
+
+#c:sandstone
+- minecraft:sandstone (from Porting Lib Tags)
+- minecraft:cut_sandstone (from Porting Lib Tags)
+- minecraft:chiseled_sandstone (from Porting Lib Tags)
+- minecraft:smooth_sandstone (from Porting Lib Tags)
+- minecraft:red_sandstone (from Porting Lib Tags)
+- minecraft:cut_red_sandstone (from Porting Lib Tags)
+- minecraft:chiseled_red_sandstone (from Porting Lib Tags)
+- minecraft:smooth_red_sandstone (from Porting Lib Tags)
+
+#runes:rune_crafting/reagent/fire_small
+- minecraft:gunpowder (from Runes)
+- minecraft:coal (from Runes)
+- minecraft:charcoal (from Runes)
+
+#c:beetroot_seeds
+- minecraft:beetroot_seeds (from Porting Lib Tags)
+
+#c:milk/milk
+- minecraft:milk_bucket (from Farmer's Delight)
+
+#c:mushrooms
+- minecraft:brown_mushroom (from Farmer's Delight)
+- minecraft:red_mushroom (from Farmer's Delight)
+- minecraft:brown_mushroom (from Porting Lib Tags)
+- minecraft:red_mushroom (from Porting Lib Tags)
+
+#c:crossbows
+- minecraft:crossbow (from Porting Lib Tags)
+
+#c:heads
+- minecraft:creeper_head (from Porting Lib Tags)
+- minecraft:dragon_head (from Porting Lib Tags)
+- minecraft:player_head (from Porting Lib Tags)
+- minecraft:skeleton_skull (from Porting Lib Tags)
+- minecraft:wither_skeleton_skull (from Porting Lib Tags)
+- minecraft:zombie_head (from Porting Lib Tags)
+
+#c:blue_glass_panes
+- minecraft:blue_stained_glass_pane (from Porting Lib Tags)
+
+#farmersdelight:cabbage_roll_ingredients
+- #c:raw_pork (from Farmer's Delight)
+- #c:raw_fishes (from Farmer's Delight)
+- #c:raw_chicken (from Farmer's Delight)
+- #c:raw_beef (from Farmer's Delight)
+- #c:raw_mutton (from Farmer's Delight)
+- #c:eggs (from Farmer's Delight)
+- #c:mushrooms (from Farmer's Delight)
+- minecraft:carrot (from Farmer's Delight)
+- minecraft:potato (from Farmer's Delight)
+- minecraft:beetroot (from Farmer's Delight)
+- nethersdelight:hoglin_loin (from Nether's Delight)
+
+#minecraft:iron_ores
+- minecraft:iron_ore (from Default)
+- minecraft:deepslate_iron_ore (from Default)
+
+#minecraft:oak_logs
+- minecraft:oak_log (from Default)
+- minecraft:oak_wood (from Default)
+- minecraft:stripped_oak_log (from Default)
+- minecraft:stripped_oak_wood (from Default)
+
+#c:ender_chests
+- minecraft:ender_chest (from Porting Lib Tags)
+
+#c:vegetables/carrot
+- minecraft:carrot (from Farmer's Delight)
+
+#c:bread/wheat
+- minecraft:bread (from Farmer's Delight)
+
+#c:raw_copper_ores
+- minecraft:raw_copper (from Fabric Convention Tags)
+
+#c:ore_bearing_ground/deepslate
+- minecraft:deepslate (from Porting Lib Tags)
+
+#c:diamonds
+- minecraft:diamond (from Fabric Convention Tags)
+- minecraft:diamond (from Porting Lib Tags)
+
+#c:orange_dyes
+- minecraft:orange_dye (from Fabric Convention Tags)
+- minecraft:orange_dye (from Porting Lib Tags)
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+- minecraft:cobblestone (from Terralith)
+- minecraft:blackstone (from Terralith)
+- minecraft:cobbled_deepslate (from Terralith)
+- minecraft:granite (from Terralith)
+- minecraft:andesite (from Terralith)
+- minecraft:diorite (from Terralith)
+
+#c:prismarine
+- minecraft:prismarine_crystals (from Porting Lib Tags)
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch (from Default)
+- minecraft:soul_lantern (from Default)
+- minecraft:soul_campfire (from Default)
+
+#c:black_glass
+- minecraft:black_stained_glass (from Porting Lib Tags)
+
+#c:purple_glass
+- minecraft:purple_stained_glass (from Porting Lib Tags)
+
+#farmersdelight:canvas_signs
+- farmersdelight:canvas_sign (from Farmer's Delight)
+- farmersdelight:white_canvas_sign (from Farmer's Delight)
+- farmersdelight:orange_canvas_sign (from Farmer's Delight)
+- farmersdelight:magenta_canvas_sign (from Farmer's Delight)
+- farmersdelight:light_blue_canvas_sign (from Farmer's Delight)
+- farmersdelight:yellow_canvas_sign (from Farmer's Delight)
+- farmersdelight:lime_canvas_sign (from Farmer's Delight)
+- farmersdelight:pink_canvas_sign (from Farmer's Delight)
+- farmersdelight:gray_canvas_sign (from Farmer's Delight)
+- farmersdelight:light_gray_canvas_sign (from Farmer's Delight)
+- farmersdelight:cyan_canvas_sign (from Farmer's Delight)
+- farmersdelight:purple_canvas_sign (from Farmer's Delight)
+- farmersdelight:blue_canvas_sign (from Farmer's Delight)
+- farmersdelight:brown_canvas_sign (from Farmer's Delight)
+- farmersdelight:green_canvas_sign (from Farmer's Delight)
+- farmersdelight:red_canvas_sign (from Farmer's Delight)
+- farmersdelight:black_canvas_sign (from Farmer's Delight)
+
+#c:shears
+- #fabric:shears? (from Fabric Convention Tags)
+- minecraft:shears (from Fabric Convention Tags)
+- minecraft:shears (from Farmer's Delight)
+- minecraft:shears (from Porting Lib Tags)
+
+#c:raw_bacon
+- farmersdelight:bacon (from Farmer's Delight)
+
+#c:bookshelves
+- minecraft:bookshelf (from Porting Lib Tags)
+
+#c:potions
+- minecraft:lingering_potion (from Fabric Convention Tags)
+- minecraft:splash_potion (from Fabric Convention Tags)
+- minecraft:potion (from Fabric Convention Tags)
+
+#c:fences
+- #c:nether_brick_fences (from Porting Lib Tags)
+- #c:wooden_fences (from Porting Lib Tags)
+
+#c:netherite_blocks
+- minecraft:netherite_block (from Porting Lib Tags)
+
+#c:red_glass_panes
+- minecraft:red_stained_glass_pane (from Porting Lib Tags)
+
+#c:lime_glass_panes
+- minecraft:lime_stained_glass_pane (from Porting Lib Tags)
+
+#c:copper_blocks
+- minecraft:copper_block (from Porting Lib Tags)
+- minecraft:cut_copper (from Porting Lib Tags)
+
+#c:cooked_eggs
+- farmersdelight:fried_egg (from Farmer's Delight)
+
+#c:ores_in_ground/stone
+- minecraft:coal_ore (from Porting Lib Tags)
+- minecraft:copper_ore (from Porting Lib Tags)
+- minecraft:diamond_ore (from Porting Lib Tags)
+- minecraft:emerald_ore (from Porting Lib Tags)
+- minecraft:gold_ore (from Porting Lib Tags)
+- minecraft:iron_ore (from Porting Lib Tags)
+- minecraft:lapis_ore (from Porting Lib Tags)
+- minecraft:redstone_ore (from Porting Lib Tags)
+
+#minecraft:mangrove_logs
+- minecraft:mangrove_log (from Default)
+- minecraft:mangrove_wood (from Default)
+- minecraft:stripped_mangrove_log (from Default)
+- minecraft:stripped_mangrove_wood (from Default)
+
+#c:gray_glass_panes
+- minecraft:gray_stained_glass_pane (from Porting Lib Tags)
+
+#minecraft:jungle_logs
+- minecraft:jungle_log (from Default)
+- minecraft:jungle_wood (from Default)
+- minecraft:stripped_jungle_log (from Default)
+- minecraft:stripped_jungle_wood (from Default)
+
+#c:grain
+- #c:grain/wheat (from Farmer's Delight)
+- #c:grain/rice (from Farmer's Delight)
+
+#minecraft:lectern_books
+- minecraft:written_book (from Default)
+- minecraft:writable_book (from Default)
+- patchouli:guide_book (from Patchouli)
+
+#c:brown_glass_panes
+- minecraft:brown_stained_glass_pane (from Porting Lib Tags)
+
+#terralith:spire/rare_tools
+- minecraft:iron_pickaxe (from Terralith)
+- minecraft:iron_shovel (from Terralith)
+- minecraft:iron_axe (from Terralith)
+- minecraft:iron_sword (from Terralith)
+- minecraft:iron_helmet (from Terralith)
+- minecraft:iron_chestplate (from Terralith)
+- minecraft:iron_leggings (from Terralith)
+- minecraft:iron_boots (from Terralith)
+- minecraft:diamond_hoe (from Terralith)
+- minecraft:diamond_shovel (from Terralith)
+
+#runes:rune_crafting/base/stone
+- minecraft:cobblestone (from Runes)
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs (from Default)
+- minecraft:spruce_stairs (from Default)
+- minecraft:birch_stairs (from Default)
+- minecraft:jungle_stairs (from Default)
+- minecraft:acacia_stairs (from Default)
+- minecraft:dark_oak_stairs (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:mangrove_stairs (from Default)
+
+#minecraft:spruce_logs
+- minecraft:spruce_log (from Default)
+- minecraft:spruce_wood (from Default)
+- minecraft:stripped_spruce_log (from Default)
+- minecraft:stripped_spruce_wood (from Default)
+
+#c:raw_mutton
+- minecraft:mutton (from Farmer's Delight)
+- farmersdelight:mutton_chops (from Farmer's Delight)
+
+#minecraft:wooden_buttons
+- minecraft:oak_button (from Default)
+- minecraft:spruce_button (from Default)
+- minecraft:birch_button (from Default)
+- minecraft:jungle_button (from Default)
+- minecraft:acacia_button (from Default)
+- minecraft:dark_oak_button (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:mangrove_button (from Default)
+
+#c:slimeballs
+- minecraft:slime_ball (from Porting Lib Tags)
+
+#c:helmets
+- minecraft:leather_helmet (from Porting Lib Tags)
+- minecraft:turtle_helmet (from Porting Lib Tags)
+- minecraft:chainmail_helmet (from Porting Lib Tags)
+- minecraft:iron_helmet (from Porting Lib Tags)
+- minecraft:golden_helmet (from Porting Lib Tags)
+- minecraft:diamond_helmet (from Porting Lib Tags)
+- minecraft:netherite_helmet (from Porting Lib Tags)
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks (from Default)
+- minecraft:mossy_stone_bricks (from Default)
+- minecraft:cracked_stone_bricks (from Default)
+- minecraft:chiseled_stone_bricks (from Default)
+
+#c:milk_buckets
+- minecraft:milk_bucket (from Fabric Convention Tags)
+
+#c:orange_glass
+- minecraft:orange_stained_glass (from Porting Lib Tags)
+
+#c:iron_ores
+- #minecraft:iron_ores (from Porting Lib Tags)
+
+#naturalist:bear_tempt_items
+- minecraft:salmon (from Naturalist)
+- minecraft:cooked_salmon (from Naturalist)
+- minecraft:cod (from Naturalist)
+- minecraft:cooked_cod (from Naturalist)
+- minecraft:tropical_fish (from Naturalist)
+- minecraft:honeycomb (from Naturalist)
+- minecraft:sweet_berries (from Naturalist)
+
+#c:normal_cobblestone
+- minecraft:cobblestone (from Porting Lib Tags)
+
+#c:barrels
+- #c:wooden_barrels (from Porting Lib Tags)
+
+#minecraft:chest_boats
+- minecraft:oak_chest_boat (from Default)
+- minecraft:spruce_chest_boat (from Default)
+- minecraft:birch_chest_boat (from Default)
+- minecraft:jungle_chest_boat (from Default)
+- minecraft:acacia_chest_boat (from Default)
+- minecraft:dark_oak_chest_boat (from Default)
+- minecraft:mangrove_chest_boat (from Default)
+
+#c:brick_ingots
+- minecraft:brick (from Porting Lib Tags)
+
+#c:grain/wheat
+- minecraft:wheat (from Farmer's Delight)
+
+#c:brown_glass
+- minecraft:brown_stained_glass (from Porting Lib Tags)
+
+#c:raw_fishes/salmon
+- minecraft:salmon (from Farmer's Delight)
+- farmersdelight:salmon_slice (from Farmer's Delight)
+
+#c:crops/tomato
+- farmersdelight:tomato (from Farmer's Delight)
+
+#minecraft:slabs
+- #minecraft:wooden_slabs (from Default)
+- minecraft:stone_slab (from Default)
+- minecraft:smooth_stone_slab (from Default)
+- minecraft:stone_brick_slab (from Default)
+- minecraft:sandstone_slab (from Default)
+- minecraft:purpur_slab (from Default)
+- minecraft:quartz_slab (from Default)
+- minecraft:red_sandstone_slab (from Default)
+- minecraft:brick_slab (from Default)
+- minecraft:cobblestone_slab (from Default)
+- minecraft:nether_brick_slab (from Default)
+- minecraft:petrified_oak_slab (from Default)
+- minecraft:prismarine_slab (from Default)
+- minecraft:prismarine_brick_slab (from Default)
+- minecraft:dark_prismarine_slab (from Default)
+- minecraft:polished_granite_slab (from Default)
+- minecraft:smooth_red_sandstone_slab (from Default)
+- minecraft:mossy_stone_brick_slab (from Default)
+- minecraft:polished_diorite_slab (from Default)
+- minecraft:mossy_cobblestone_slab (from Default)
+- minecraft:end_stone_brick_slab (from Default)
+- minecraft:smooth_sandstone_slab (from Default)
+- minecraft:smooth_quartz_slab (from Default)
+- minecraft:granite_slab (from Default)
+- minecraft:andesite_slab (from Default)
+- minecraft:red_nether_brick_slab (from Default)
+- minecraft:polished_andesite_slab (from Default)
+- minecraft:diorite_slab (from Default)
+- minecraft:cut_sandstone_slab (from Default)
+- minecraft:cut_red_sandstone_slab (from Default)
+- minecraft:blackstone_slab (from Default)
+- minecraft:polished_blackstone_brick_slab (from Default)
+- minecraft:polished_blackstone_slab (from Default)
+- minecraft:cobbled_deepslate_slab (from Default)
+- minecraft:polished_deepslate_slab (from Default)
+- minecraft:deepslate_tile_slab (from Default)
+- minecraft:deepslate_brick_slab (from Default)
+- minecraft:waxed_weathered_cut_copper_slab (from Default)
+- minecraft:waxed_exposed_cut_copper_slab (from Default)
+- minecraft:waxed_cut_copper_slab (from Default)
+- minecraft:oxidized_cut_copper_slab (from Default)
+- minecraft:weathered_cut_copper_slab (from Default)
+- minecraft:exposed_cut_copper_slab (from Default)
+- minecraft:cut_copper_slab (from Default)
+- minecraft:waxed_oxidized_cut_copper_slab (from Default)
+- minecraft:mud_brick_slab (from Default)
+
+#c:red_sandstones
+- minecraft:red_sandstone (from Fabric Waystones)
+- minecraft:smooth_red_sandstone (from Fabric Waystones)
+- minecraft:chiseled_red_sandstone (from Fabric Waystones)
+- minecraft:cut_red_sandstone (from Fabric Waystones)
+
+#c:bones
+- minecraft:bone (from Farmer's Delight)
+- minecraft:bone (from Porting Lib Tags)
+
+#c:orange_glass_panes
+- minecraft:orange_stained_glass_pane (from Porting Lib Tags)
+
+#terralith:spire/junk_tools
+- minecraft:wooden_pickaxe (from Terralith)
+- minecraft:wooden_shovel (from Terralith)
+- minecraft:wooden_axe (from Terralith)
+- minecraft:wooden_sword (from Terralith)
+- minecraft:wooden_hoe (from Terralith)
+- minecraft:stone_pickaxe (from Terralith)
+- minecraft:stone_sword (from Terralith)
+
+#c:gray_glass
+- minecraft:gray_stained_glass (from Porting Lib Tags)
+
+#c:iron_raw_materials
+- minecraft:raw_iron (from Porting Lib Tags)
+
+#c:coal
+- #minecraft:coals? (from Fabric Convention Tags)
+
+#c:rods
+- #c:blaze_rods (from Porting Lib Tags)
+- #c:wooden_rods (from Porting Lib Tags)
+
+#c:hoes
+- #fabric:hoes? (from Fabric Convention Tags)
+- minecraft:diamond_hoe (from Fabric Convention Tags)
+- minecraft:golden_hoe (from Fabric Convention Tags)
+- minecraft:wooden_hoe (from Fabric Convention Tags)
+- minecraft:stone_hoe (from Fabric Convention Tags)
+- minecraft:iron_hoe (from Fabric Convention Tags)
+- minecraft:netherite_hoe (from Fabric Convention Tags)
+- minecraft:wooden_hoe (from Porting Lib Tags)
+- minecraft:stone_hoe (from Porting Lib Tags)
+- minecraft:iron_hoe (from Porting Lib Tags)
+- minecraft:golden_hoe (from Porting Lib Tags)
+- minecraft:diamond_hoe (from Porting Lib Tags)
+- minecraft:netherite_hoe (from Porting Lib Tags)
+
+#c:gold_blocks
+- minecraft:gold_block (from Porting Lib Tags)
+
+#c:red_dyes
+- minecraft:red_dye (from Fabric Convention Tags)
+- minecraft:red_dye (from Porting Lib Tags)
+
+#c:green_glass_panes
+- minecraft:green_stained_glass_pane (from Porting Lib Tags)
+
+#c:dusts/prismarine
+- minecraft:prismarine_shard (from Porting Lib Tags)
+
+#nethersdelight:raw_strider
+- nethersdelight:strider_slice (from Nether's Delight)
+- nethersdelight:ground_strider (from Nether's Delight)
+
+#c:raw_fishes/cod
+- minecraft:cod (from Farmer's Delight)
+- farmersdelight:cod_slice (from Farmer's Delight)
+
+#minecraft:flowers
+- #minecraft:small_flowers (from Default)
+- #minecraft:tall_flowers (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#c:cooked_fishes/cod
+- minecraft:cooked_cod (from Farmer's Delight)
+- farmersdelight:cooked_cod_slice (from Farmer's Delight)
+
+#minecraft:buttons
+- #minecraft:wooden_buttons (from Default)
+- minecraft:stone_button (from Default)
+- minecraft:polished_blackstone_button (from Default)
+
+#farmersdelight:comfort_foods
+- minecraft:mushroom_stew (from Farmer's Delight)
+- minecraft:beetroot_soup (from Farmer's Delight)
+- minecraft:rabbit_stew (from Farmer's Delight)
+
+#c:bows
+- minecraft:crossbow (from Fabric Convention Tags)
+- minecraft:bow (from Fabric Convention Tags)
+- minecraft:bow (from Porting Lib Tags)
+
+#minecraft:planks
+- minecraft:oak_planks (from Default)
+- minecraft:spruce_planks (from Default)
+- minecraft:birch_planks (from Default)
+- minecraft:jungle_planks (from Default)
+- minecraft:acacia_planks (from Default)
+- minecraft:dark_oak_planks (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:mangrove_planks (from Default)
+
+#minecraft:fox_food
+- minecraft:sweet_berries (from Default)
+- minecraft:glow_berries (from Default)
+
+#wizards:wizard_runes
+- runes:arcane_stone (from Wizards)
+- runes:fire_stone (from Wizards)
+- runes:frost_stone (from Wizards)
+
+#c:wooden_rods
+- minecraft:stick (from Porting Lib Tags)
+
+#minecraft:rails
+- minecraft:rail (from Default)
+- minecraft:powered_rail (from Default)
+- minecraft:detector_rail (from Default)
+- minecraft:activator_rail (from Default)
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore (from Default)
+- minecraft:deepslate_diamond_ore (from Default)
+
+#c:yellow_dyes
+- minecraft:yellow_dye (from Fabric Convention Tags)
+- minecraft:yellow_dye (from Porting Lib Tags)
+
+#c:vegetables/potato
+- minecraft:potato (from Farmer's Delight)
+
+#minecraft:overworld_natural_logs
+- minecraft:acacia_log (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:mangrove_log (from Default)
+
+#c:shulker_boxes
+- minecraft:shulker_box (from Fabric Convention Tags)
+- minecraft:blue_shulker_box (from Fabric Convention Tags)
+- minecraft:brown_shulker_box (from Fabric Convention Tags)
+- minecraft:cyan_shulker_box (from Fabric Convention Tags)
+- minecraft:gray_shulker_box (from Fabric Convention Tags)
+- minecraft:green_shulker_box (from Fabric Convention Tags)
+- minecraft:light_blue_shulker_box (from Fabric Convention Tags)
+- minecraft:light_gray_shulker_box (from Fabric Convention Tags)
+- minecraft:lime_shulker_box (from Fabric Convention Tags)
+- minecraft:magenta_shulker_box (from Fabric Convention Tags)
+- minecraft:orange_shulker_box (from Fabric Convention Tags)
+- minecraft:pink_shulker_box (from Fabric Convention Tags)
+- minecraft:purple_shulker_box (from Fabric Convention Tags)
+- minecraft:red_shulker_box (from Fabric Convention Tags)
+- minecraft:white_shulker_box (from Fabric Convention Tags)
+- minecraft:yellow_shulker_box (from Fabric Convention Tags)
+- minecraft:black_shulker_box (from Fabric Convention Tags)
+
+#c:deepslate_bricks
+- minecraft:deepslate_bricks (from Fabric Waystones)
+- minecraft:cracked_deepslate_bricks (from Fabric Waystones)
+
+#c:netherrack
+- minecraft:netherrack (from Porting Lib Tags)
+
+#c:glass_blocks
+- minecraft:glass (from Fabric Convention Tags)
+- minecraft:gray_stained_glass (from Fabric Convention Tags)
+- minecraft:black_stained_glass (from Fabric Convention Tags)
+- minecraft:orange_stained_glass (from Fabric Convention Tags)
+- minecraft:blue_stained_glass (from Fabric Convention Tags)
+- minecraft:brown_stained_glass (from Fabric Convention Tags)
+- minecraft:cyan_stained_glass (from Fabric Convention Tags)
+- minecraft:green_stained_glass (from Fabric Convention Tags)
+- minecraft:light_blue_stained_glass (from Fabric Convention Tags)
+- minecraft:light_gray_stained_glass (from Fabric Convention Tags)
+- minecraft:lime_stained_glass (from Fabric Convention Tags)
+- minecraft:magenta_stained_glass (from Fabric Convention Tags)
+- minecraft:pink_stained_glass (from Fabric Convention Tags)
+- minecraft:purple_stained_glass (from Fabric Convention Tags)
+- minecraft:red_stained_glass (from Fabric Convention Tags)
+- minecraft:tinted_glass (from Fabric Convention Tags)
+- minecraft:white_stained_glass (from Fabric Convention Tags)
+- minecraft:yellow_stained_glass (from Fabric Convention Tags)
+- #c:colorless_glass (from Porting Lib Tags)
+- #c:stained_glass (from Porting Lib Tags)
+- #c:tinted_glass (from Porting Lib Tags)
+
+#c:cyan_dyes
+- minecraft:cyan_dye (from Fabric Convention Tags)
+- minecraft:cyan_dye (from Porting Lib Tags)
+
+#c:ender_pearls
+- minecraft:ender_pearl (from Porting Lib Tags)
+
+#c:magenta_glass
+- minecraft:magenta_stained_glass (from Porting Lib Tags)
+
+#c:polished_blackstones
+- minecraft:chiseled_polished_blackstone (from Fabric Waystones)
+- minecraft:polished_blackstone (from Fabric Waystones)
+
+#c:crops/onion
+- farmersdelight:onion (from Farmer's Delight)
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate (from Default)
+- minecraft:spruce_pressure_plate (from Default)
+- minecraft:birch_pressure_plate (from Default)
+- minecraft:jungle_pressure_plate (from Default)
+- minecraft:acacia_pressure_plate (from Default)
+- minecraft:dark_oak_pressure_plate (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:mangrove_pressure_plate (from Default)
+
+#farmersdelight:wolf_prey
+- #c:raw_chicken (from Farmer's Delight)
+- #c:raw_mutton (from Farmer's Delight)
+- minecraft:rabbit (from Farmer's Delight)
+
+#minecraft:candles
+- minecraft:candle (from Default)
+- minecraft:white_candle (from Default)
+- minecraft:orange_candle (from Default)
+- minecraft:magenta_candle (from Default)
+- minecraft:light_blue_candle (from Default)
+- minecraft:yellow_candle (from Default)
+- minecraft:lime_candle (from Default)
+- minecraft:pink_candle (from Default)
+- minecraft:gray_candle (from Default)
+- minecraft:light_gray_candle (from Default)
+- minecraft:cyan_candle (from Default)
+- minecraft:purple_candle (from Default)
+- minecraft:blue_candle (from Default)
+- minecraft:brown_candle (from Default)
+- minecraft:green_candle (from Default)
+- minecraft:red_candle (from Default)
+- minecraft:black_candle (from Default)
+
+#minecraft:tall_flowers
+- minecraft:sunflower (from Default)
+- minecraft:lilac (from Default)
+- minecraft:peony (from Default)
+- minecraft:rose_bush (from Default)
+- farmersdelight:wild_rice (from Farmer's Delight)
+
+#c:light_gray_glass
+- minecraft:light_gray_stained_glass (from Porting Lib Tags)
+
+#c:cobblestone
+- #c:normal_cobblestone (from Porting Lib Tags)
+- #c:infested_cobblestone (from Porting Lib Tags)
+- #c:mossy_cobblestone (from Porting Lib Tags)
+- #c:deepslate_cobblestone (from Porting Lib Tags)
+
+#c:quartz
+- minecraft:quartz (from Fabric Convention Tags)
+- minecraft:quartz (from Porting Lib Tags)
+
+#runes:rune_crafting/reagent/fire_medium
+- minecraft:blaze_powder (from Runes)
+
+#minecraft:gold_ores
+- minecraft:gold_ore (from Default)
+- minecraft:nether_gold_ore (from Default)
+- minecraft:deepslate_gold_ore (from Default)
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots (from Default)
+- minecraft:leather_leggings (from Default)
+- minecraft:leather_chestplate (from Default)
+- minecraft:leather_helmet (from Default)
+- minecraft:leather_horse_armor (from Default)
+
+#minecraft:completes_find_tree_tutorial
+- #minecraft:logs (from Default)
+- #minecraft:leaves (from Default)
+- #minecraft:wart_blocks (from Default)
+
+#terralith:spire/leather_armor
+- minecraft:leather_boots (from Terralith)
+- minecraft:leather_leggings (from Terralith)
+- minecraft:leather_chestplate (from Terralith)
+- minecraft:leather_horse_armor (from Terralith)
+
+#runes:rune_crafting/reagent/frost_small
+- minecraft:snowball (from Runes)
+
+#c:ores
+- #minecraft:iron_ores? (from Fabric Convention Tags)
+- #minecraft:copper_ores? (from Fabric Convention Tags)
+- #minecraft:redstone_ores? (from Fabric Convention Tags)
+- #minecraft:gold_ores? (from Fabric Convention Tags)
+- #minecraft:coal_ores? (from Fabric Convention Tags)
+- #minecraft:diamond_ores? (from Fabric Convention Tags)
+- #minecraft:lapis_ores? (from Fabric Convention Tags)
+- #c:quartz_ores? (from Fabric Convention Tags)
+- #minecraft:emerald_ores? (from Fabric Convention Tags)
+- #c:coal_ores (from Porting Lib Tags)
+- #c:copper_ores (from Porting Lib Tags)
+- #c:diamond_ores (from Porting Lib Tags)
+- #c:emerald_ores (from Porting Lib Tags)
+- #c:gold_ores (from Porting Lib Tags)
+- #c:iron_ores (from Porting Lib Tags)
+- #c:lapis_ores (from Porting Lib Tags)
+- #c:redstone_ores (from Porting Lib Tags)
+- #c:quartz_ores (from Porting Lib Tags)
+- #c:netherite_scrap_ores (from Porting Lib Tags)
+
+#farmersdelight:offhand_equipment
+- minecraft:shield (from Farmer's Delight)
+- create:extendo_grip? (from Farmer's Delight)
+
+#minecraft:dirt
+- minecraft:dirt (from Default)
+- minecraft:grass_block (from Default)
+- minecraft:podzol (from Default)
+- minecraft:coarse_dirt (from Default)
+- minecraft:mycelium (from Default)
+- minecraft:rooted_dirt (from Default)
+- minecraft:moss_block (from Default)
+- minecraft:mud (from Default)
+- minecraft:muddy_mangrove_roots (from Default)
+
+#c:dusts/glowstone
+- minecraft:glowstone_dust (from Porting Lib Tags)
+
+#c:infested_cobblestone
+- minecraft:infested_cobblestone (from Porting Lib Tags)
+
+#c:seeds/tomato
+- farmersdelight:tomato_seeds (from Farmer's Delight)
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:iron_pickaxe (from Default)
+- minecraft:netherite_pickaxe (from Default)
+- minecraft:stone_pickaxe (from Default)
+- minecraft:wooden_pickaxe (from Default)
